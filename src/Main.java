@@ -10,7 +10,7 @@ public class Main {
         //System.out.println("Recent Product bought : "+P1.recentProduct(P1,P2));
         Deck deck1=new Deck();
         deck1.displayCards();
-        System.out.println();
+        System.out.println("hello amir don");
         deck1.shuffle();
         deck1.displayCards();
     }
