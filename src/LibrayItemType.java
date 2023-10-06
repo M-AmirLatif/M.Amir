@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class LibrayItemType {
-}
+
+    public enum LibrayItemType{
+        BOOK,MAGAZINE;
+
+    }
