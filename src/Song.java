@@ -10,7 +10,7 @@ public class Song {
 
     public Song(String name, String artist, int duration, String albumName, Artist myartist, Mydate date) {
         this.name = name;
-        this.artist = artist;
+        this.myartist = myartist;
         this.duration = duration;
         this.albumName = albumName;
         this.myartist=myartist;

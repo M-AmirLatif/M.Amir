@@ -2,7 +2,7 @@ import java.util.Random;
 public class Deck {
 
     String suits[] = {"diamoind", "hearts", "clubs", "spades"};
-    String ranks[] = {"king", "ace", "5"};
+    String ranks[] = {"king", "ace", "5","3","4","6","7","8","9","10"};
 
     Card cards[] = new Card[52];
 
